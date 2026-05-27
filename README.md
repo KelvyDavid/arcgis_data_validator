@@ -113,11 +113,6 @@ Este proyecto es un esfuerzo de colaboración y mantenimiento de scripts para la
   - Para añadir una nueva regla, edite el archivo `.py` correspondiente (ADMS_Querys, CIS_Querys,Enterprise_Querys) añadiendo una nueva entrada al diccionario (ej. `"NUEVA_VALIDACION": "SQL_QUERY_HERE"`).
   - Asegúrese de que la capa correspondiente esté mapeada en [defaultLayers.py](file:///c:/Users/david/OneDrive/Documentos/GitHub/arcgis_data_validator/QueryDictionaries/defaultLayers.py).
 
----
-
-## 📄 Licencia
-
-Este proyecto es de código cerrado y propiedad de la empresa para la cual fue desarrollado.
 
 ---
 
